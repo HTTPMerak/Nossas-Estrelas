@@ -38,13 +38,13 @@ a:focus,
 } /* Cor Principal - Bordas */
 
 .cor-secundaria {
-    color: #ee4362;
+    color: #6243ee;
 }
 .fundo-secundario {
-    background-color: #ee4362;
+    background-color: #6243ee;
 }
 .borda-secundaria {
-    border-color: #ee4362;
+    border-color: #6243ee;
 }
 
 .titulo {
@@ -70,7 +70,7 @@ a:focus,
 .botao.principal.botao-comprar,
 .botao.principal.grande,
 .acoes-produto-responsiva .tag-comprar {
-    background-color: #ee4362;
+    background-color: #6243ee;
 }
 
 #barraNewsletter,
