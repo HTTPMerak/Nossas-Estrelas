@@ -4749,7 +4749,7 @@ body {
 
 @media only screen and (max-width: 767px) {
     body {
-        background: #ECECEC;
+        background: #f9f9f9;
     }
     #cabecalho {
         padding-top: 50px;
