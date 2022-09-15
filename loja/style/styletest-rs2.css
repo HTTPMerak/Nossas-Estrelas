@@ -243,7 +243,7 @@
 }
 
 body {
-    background: #ECECEC;
+    background: #f9f9f9;
     font-family: "Lato", sans-serif;
     font-weight: 400;
     overflow: inherit !important;
@@ -2368,7 +2368,7 @@ body {
         margin-right: 20px;
     }
     .rastreio .botao:hover {
-        background: #ECECEC;
+        background: #ececec;
     }
     .rastreio .botao i {
         margin: 0;
@@ -4473,7 +4473,6 @@ body {
         .flex-direction-nav
         .flex-next {
         right: -10px;
-        color: black;
     }
     .listagem
         .produtos-carrossel
@@ -4749,7 +4748,7 @@ body {
 
 @media only screen and (max-width: 767px) {
     body {
-        background: #f9f9f9;
+        background: #fff;
     }
     #cabecalho {
         padding-top: 50px;

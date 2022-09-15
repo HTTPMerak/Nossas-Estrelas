@@ -19,7 +19,7 @@ var codigoCupom = "DESCONTO10OFF";  // Código do cupom que será mostrado
 var rastreioRapido = true;  // Ativa o rastreamento rápido na central de atendimento (true = ativado, false = desativado)
 
 var suporteFlutuante = true; // Ativa o suporte flutuante (true = ativado, false = desativado)
-var corSuporteFlutuante = "#b11623"; // Cor do suporte flutuante
+var corSuporteFlutuante = "#F24464"; // Cor do suporte flutuante
 var suporteFlutuantePosicao = "left"; // Posição que o suporte flutuante ficará (right = lado direito, left = lado esquerdo)
 var suporteAltura = "20px"; // Altura em pixels que o suporte flutuante ficará, você pode subi-lo aumentando a altura
 
@@ -58,7 +58,7 @@ var iconeMarcas = ''; // Escolha o icone da cateogria marcas
 
 var departamentos = true; // Ativa aba Todos os Departamentos (true = ativado, false = desativado)
 var tituloDepartamentos = "Categorias"; // Escolha o título da aba Todos os Departamentos
-var corDepartamentos = "#6243ee"; // Define a cor da aba Todos os Departamentos
+var corDepartamentos = "#F24464"; // Define a cor da aba Todos os Departamentos
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -67,14 +67,14 @@ var corDepartamentos = "#6243ee"; // Define a cor da aba Todos os Departamentos
 
 var ofertas = true; // Ativa a aba ofertas no menu superior (true = ativado, false = desativado)
 var tituloOfertas = "Oferta do dia"; // Nome da aba ofertas no menu superior
-var corOfertas = "#273b43"; // Cor da aba ofertas no menu superior
+var corOfertas = "#D7BCE8"; // Cor da aba ofertas no menu superior
 var iconeOfertas = "far fa-clock"; // Escolha o icone da aba ofertas
 
 var timerOfertas = true; // Ativa o timer nas ofertas (true = ativado, false = desativado)
 var exibicaoOfertas = 1; // Escolha quantos produtos serão exibidos na aba ofertas (de 1 a 3)
 var textoOfertas1 = "Descontão!!"; // Primeira linha do texto em ofertas, ao lado do timer
 var textoOfertas2 = "Aproveite nossas ofertas"; // Segunda linha do texto em ofertas, ao lado do timer
-var timerTempo = 'Oct 5, 2022 15:37:25'; // Data para o fim da contagem do timer (abreviação dos meses em inglês)
+var timerTempo = 'Aug 5, 2021 15:37:25'; // Data para o fim da contagem do timer (abreviação dos meses em inglês)
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -88,13 +88,13 @@ var miniBanners = 3; // Número de mini banners (Escolha: 2 ou 3)
 
 var favoritoListagem = true; // Ativa coração para adicionar aos favoritos nos produtos da listagem (true = ativado, false = desativado)
 
-var corAvista = '#b11623'; // Defina a cor do pagamento a vista
+var corAvista = '#F24464'; // Defina a cor do pagamento a vista
 var textoBoleto = "à vista"; // Boleto Bancário
 var textoDeposito = "à vista"; // Depósito Bancário
 var textoEntrega = "à vista na entrega"; // Pagamento na Entrega
 
 var descontoDepois = ""; // Adiciona texto após a porcentagem de desconto na bandeira do promoduto em promoção
-var corBandeiraPromocao = "#b11623"; // Define a cor da bandeira de promoção
+var corBandeiraPromocao = "#F24464"; // Define a cor da bandeira de promoção
 var substituirPorcentagem = false; // Substitui a porcentagem de desconto na bandeira do promoduto em promoção por um texto (true = ativado, false = desativado)
 var descontoNovo = "Oferta"; // Texto que irá substituir a porcentagem
 
