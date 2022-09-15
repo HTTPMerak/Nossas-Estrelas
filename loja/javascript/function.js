@@ -755,11 +755,7 @@ $(document).ready(function () {
 	$('.desconto-a-vista').css('color', '' + corAvista + '');
 	$('.desconto-a-vista').css('border-color', '' + corAvista + '');
 	$('.desconto-a-vista strong').css('color', '' + corAvista + '');
-
-	//$('.cor-secundaria').css('color', '' + corBotaoA + '');
-	//$('.fundo-secundario').css('background-color', '' + corBotaoA + '');
-	//$('.borda-secundaria').css('border-color', '' + corBotaoA + '');
-
+	
 	$('.titulo-categoria').css('color', '' + corPrimaria + '');
 	$('.listagem .produtos-carrossel .listagem-linha.flexslider .flex-direction-nav .flex-prev').css('color', '' + corPrimaria + '');
 	$('.listagem .produtos-carrossel .listagem-linha.flexslider .flex-direction-nav .flex-next').css('color', '' + corPrimaria + '');
