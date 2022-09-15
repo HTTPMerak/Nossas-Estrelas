@@ -19,7 +19,7 @@ var codigoCupom = "DESCONTO10OFF";  // Código do cupom que será mostrado
 var rastreioRapido = true;  // Ativa o rastreamento rápido na central de atendimento (true = ativado, false = desativado)
 
 var suporteFlutuante = true; // Ativa o suporte flutuante (true = ativado, false = desativado)
-var corSuporteFlutuante = "#6243ee"; // Cor do suporte flutuante
+var corSuporteFlutuante = "#b11623"; // Cor do suporte flutuante
 var suporteFlutuantePosicao = "left"; // Posição que o suporte flutuante ficará (right = lado direito, left = lado esquerdo)
 var suporteAltura = "20px"; // Altura em pixels que o suporte flutuante ficará, você pode subi-lo aumentando a altura
 
@@ -88,14 +88,13 @@ var miniBanners = 3; // Número de mini banners (Escolha: 2 ou 3)
 
 var favoritoListagem = true; // Ativa coração para adicionar aos favoritos nos produtos da listagem (true = ativado, false = desativado)
 
-var corBotaoA = '#f24464';
-var corAvista = '#6243ee'; // Defina a cor do pagamento a vista
+var corAvista = '#b11623'; // Defina a cor do pagamento a vista
 var textoBoleto = "à vista"; // Boleto Bancário
 var textoDeposito = "à vista"; // Depósito Bancário
 var textoEntrega = "à vista na entrega"; // Pagamento na Entrega
 
 var descontoDepois = ""; // Adiciona texto após a porcentagem de desconto na bandeira do promoduto em promoção
-var corBandeiraPromocao = "#6243ee"; // Define a cor da bandeira de promoção
+var corBandeiraPromocao = "#b11623"; // Define a cor da bandeira de promoção
 var substituirPorcentagem = false; // Substitui a porcentagem de desconto na bandeira do promoduto em promoção por um texto (true = ativado, false = desativado)
 var descontoNovo = "Oferta"; // Texto que irá substituir a porcentagem
 
