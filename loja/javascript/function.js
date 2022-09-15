@@ -757,7 +757,7 @@ $(document).ready(function () {
 	$('.desconto-a-vista strong').css('color', '' + corAvista + '');
 
 	$('.cor-secundaria').css('color', '' + corBotaoA + '');
-	$('.fundo-secundario').css('background-color', '' + corBotaoA + '');
+	//$('.fundo-secundario').css('background-color', '' + corBotaoA + '');
 	$('.borda-secundaria').css('border-color', '' + corBotaoA + '');
 
 	$('.titulo-categoria').css('color', '' + corPrimaria + '');
