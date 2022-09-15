@@ -88,7 +88,7 @@ var miniBanners = 3; // Número de mini banners (Escolha: 2 ou 3)
 
 var favoritoListagem = true; // Ativa coração para adicionar aos favoritos nos produtos da listagem (true = ativado, false = desativado)
 
-var corBotaoA = '#6243ee';
+var corBotaoA = '#f24464';
 var corAvista = '#6243ee'; // Defina a cor do pagamento a vista
 var textoBoleto = "à vista"; // Boleto Bancário
 var textoDeposito = "à vista"; // Depósito Bancário
