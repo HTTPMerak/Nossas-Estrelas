@@ -19,7 +19,7 @@ var codigoCupom = "DESCONTO10OFF";  // Código do cupom que será mostrado
 var rastreioRapido = true;  // Ativa o rastreamento rápido na central de atendimento (true = ativado, false = desativado)
 
 var suporteFlutuante = true; // Ativa o suporte flutuante (true = ativado, false = desativado)
-var corSuporteFlutuante = "#F24464"; // Cor do suporte flutuante
+var corSuporteFlutuante = "#B11623"; // Cor do suporte flutuante
 var suporteFlutuantePosicao = "left"; // Posição que o suporte flutuante ficará (right = lado direito, left = lado esquerdo)
 var suporteAltura = "20px"; // Altura em pixels que o suporte flutuante ficará, você pode subi-lo aumentando a altura
 
@@ -58,7 +58,7 @@ var iconeMarcas = ''; // Escolha o icone da cateogria marcas
 
 var departamentos = true; // Ativa aba Todos os Departamentos (true = ativado, false = desativado)
 var tituloDepartamentos = "Categorias"; // Escolha o título da aba Todos os Departamentos
-var corDepartamentos = "#F24464"; // Define a cor da aba Todos os Departamentos
+var corDepartamentos = "#B11623"; // Define a cor da aba Todos os Departamentos
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
