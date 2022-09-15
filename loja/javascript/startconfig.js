@@ -67,7 +67,7 @@ var corDepartamentos = "#B11623"; // Define a cor da aba Todos os Departamentos
 
 var ofertas = true; // Ativa a aba ofertas no menu superior (true = ativado, false = desativado)
 var tituloOfertas = "Oferta do dia"; // Nome da aba ofertas no menu superior
-var corOfertas = "#D7BCE8"; // Cor da aba ofertas no menu superior
+var corOfertas = "#6243EE"; // Cor da aba ofertas no menu superior
 var iconeOfertas = "far fa-clock"; // Escolha o icone da aba ofertas
 
 var timerOfertas = true; // Ativa o timer nas ofertas (true = ativado, false = desativado)
