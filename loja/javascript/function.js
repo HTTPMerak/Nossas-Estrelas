@@ -754,7 +754,7 @@ $(document).ready(function () {
 	$('.bandeira-carrinho').css('background-color', '' + corPrimaria + '');
 	$('.desconto-a-vista').css('color', '' + corAvista + '');
 	$('.desconto-a-vista').css('border-color', '' + corAvista + '');
-	$('.desconto-a-vista strong').css('color', '' + corAvista + '');
+	$('.desconto-a-vista strong').css('color', '' + corAvista2 + '');
 	$('.titulo-categoria').css('color', '' + corPrimaria + '');
 	$('.listagem .produtos-carrossel .listagem-linha.flexslider .flex-direction-nav .flex-prev').css('color', '' + corPrimaria + '');
 	$('.listagem .produtos-carrossel .listagem-linha.flexslider .flex-direction-nav .flex-next').css('color', '' + corPrimaria + '');
