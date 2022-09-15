@@ -38,7 +38,8 @@ a:focus,
 } /* Cor Principal - Bordas */
 
 .cor-secundaria {
-    color: #6243ee;
+    /*color: #6243ee;*/
+    color: #f24464;
 }
 .fundo-secundario {
     background-color: #f24464;
