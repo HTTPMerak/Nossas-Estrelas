@@ -15,7 +15,7 @@ a:focus,
 .menu a:hover,
 .atributo-comum a:hover span,
 .atributo-comum .active a span {
-    color: #191919;
+    color: #7baab8;
 } /* Cor Principal - Textos e Links */
 .fundo-principal,
 .botao.principal,
@@ -27,14 +27,14 @@ a:focus,
 .filtro.lista ul li.active label,
 .menu-simples li a:hover,
 .menu-simples li.active a {
-    background-color: #191919;
+    background-color: #7baab8;
 } /* Cor Principal - Background */
 .borda-principal,
 .atributos ul li a:hover,
 .atributos ul li.active a,
 .tema-scuro .nav-tabs li.active a,
 .elastislide-carousel ul li.active a {
-    border-color: #191919;
+    border-color: #7baab8;
 } /* Cor Principal - Bordas */
 
 .cor-secundaria {
