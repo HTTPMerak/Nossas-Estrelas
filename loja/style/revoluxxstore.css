@@ -34,7 +34,7 @@ a:focus,
 .atributos ul li.active a,
 .tema-scuro .nav-tabs li.active a,
 .elastislide-carousel ul li.active a {
-    border-color: #7baab8;
+    border-color: #7baab8; 
 } /* Cor Principal - Bordas */
 
 .cor-secundaria {
