@@ -38,13 +38,13 @@ a:focus,
 } /* Cor Principal - Bordas */
 
 .cor-secundaria {
-    color: #7bb9b3;
+    color: #7baab5;
 }
 .fundo-secundario {
-    background-color: #7bb9b3;
+    background-color: #7baab5;
 }
 .borda-secundaria {
-    border-color: #7bb9b3;
+    border-color: #7baab5;
 }
 
 .titulo {
