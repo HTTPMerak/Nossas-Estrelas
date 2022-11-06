@@ -408,7 +408,7 @@ body {
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    margin-bottom: 30px;
+    /*margin-bottom: 30px;*/
     font-weight: 400;
 }
 .listagem .span3 .imagem-produto,
