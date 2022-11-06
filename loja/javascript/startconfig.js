@@ -67,7 +67,7 @@ var corDepartamentos = "#7baab9"; // Define a cor da aba Todos os Departamentos
 
 var ofertas = true; // Ativa a aba ofertas no menu superior (true = ativado, false = desativado)
 var tituloOfertas = "Oferta do dia"; // Nome da aba ofertas no menu superior
-var corOfertas = "#7dbdd1"; // Cor da aba ofertas no menu superior
+var corOfertas = "#9f88d8"; // Cor da aba ofertas no menu superior
 var iconeOfertas = "far fa-clock"; // Escolha o icone da aba ofertas
 
 var timerOfertas = true; // Ativa o timer nas ofertas (true = ativado, false = desativado)
@@ -95,7 +95,7 @@ var textoDeposito = "à vista"; // Depósito Bancário
 var textoEntrega = "à vista na entrega"; // Pagamento na Entrega
 
 var descontoDepois = ""; // Adiciona texto após a porcentagem de desconto na bandeira do promoduto em promoção
-var corBandeiraPromocao = "#7dbdd1"; // Define a cor da bandeira de promoção
+var corBandeiraPromocao = "#9f88d8"; // Define a cor da bandeira de promoção
 var substituirPorcentagem = false; // Substitui a porcentagem de desconto na bandeira do promoduto em promoção por um texto (true = ativado, false = desativado)
 var descontoNovo = "Oferta"; // Texto que irá substituir a porcentagem
 
