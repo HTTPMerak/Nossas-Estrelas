@@ -280,6 +280,9 @@ body {
 .botao:hover {
     opacity: 0.8;
 }
+.conteiner-principal {
+    background-color: #9f88d859;
+}
 
 /* Banners */
 
@@ -300,9 +303,12 @@ body {
 .tarja {
     width: 100% !important;
     margin: 0;
+    background-color: white;
+    border-radius: 11px;
 }
 .tarja img {
-    box-shadow: 0px 5px 21px 0px rgba(205, 205, 205, 0.56);
+    /*box-shadow: 0px 5px 21px 0px rgba(205, 205, 205, 0.56);*/
+    box-shadow: 0px 5px 21px 0px rgb(159 136 215);
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
