@@ -132,6 +132,7 @@ $(document).ready(function () {
 		})
 		$('.listagem-item').find('.botao-comprar-ajax').closest('.acoes-produto').prepend('<div class="qtde-adicionar-carrinho"><input type="number" min="1" value="1" class="qtde-carrinho" name="qtde-carrinho"></div>');
 		$('.botao-comprar-ajax').html('<i class="fas fa-shopping-cart"></i> Adicionar');
+		$('.botao-comprar-ajax').html('<i class="fas fa-shopping-cart"></i> Adicionar2');
 		$(".botao-comprar-ajax").attr("data-loading-text", "<i class='icon-refresh icon-animate'></i>Adicionando");
 		jQuery('<div class="quantity-nav"><div class="quantity-button quantity-up"><i class="fas fa-caret-up"></i></div><div class="quantity-button quantity-down"><i class="fas fa-caret-down"></i></div></div>').insertAfter('.qtde-carrinho');
 		jQuery('.qtde-adicionar-carrinho').each(function () {
