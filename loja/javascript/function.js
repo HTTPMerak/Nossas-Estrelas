@@ -114,7 +114,7 @@ $(document).ready(function () {
 			$.each($avista, function () {
 				$(this).html($(this).html().replace('ou', ''));
 				$(this).html($(this).html().replace('via Pagamento na entrega', '' + textoEntrega + ''));
-				$(this).html($(this).html().replace('via Boleto Bancáriorio', '' + textoBoleto + ''));
+				$(this).html($(this).html().replace('via Pix', '' + textoBoleto + ''));
 				$(this).html($(this).html().replace('via Depósito', '' + textoDeposito + ''));
 			});
 		}
