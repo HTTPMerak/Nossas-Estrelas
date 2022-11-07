@@ -494,8 +494,9 @@ body {
 }
 
 .listagem-item .bandeiras-produto {
-    left: inherit;
-    top: 25px;
+    /*left: inherit;*/
+    left: 10px;
+    top: 30px;
 }
 .listagem-item .bandeiras-produto span {
     display: table;
